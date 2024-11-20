@@ -9,6 +9,6 @@ entries:
     name: hello-world
     type: application
     urls:
-    - https://clarktn.github.io/helm-test-public/hello-world-0.1.0.tgz
+    - https://thienvx.github.io/helm-test-public/hello-world-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-20T18:23:57.6015441+07:00"
